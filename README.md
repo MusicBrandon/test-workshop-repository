@@ -5,6 +5,8 @@ Test workshop repository
 
 None.
 
-.one
-.two
-.three
+...
+for i in *dat;do
+    echo $i
+done
+...
