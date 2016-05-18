@@ -5,8 +5,8 @@ Test workshop repository
 
 None.
 
-...
-for i in *dat;do
+```
+for i in *.dat; do
     echo $i
 done
 ...
